@@ -15,7 +15,7 @@ Sample input data files:
 		sampleInputCrossBorderToDirectionSouth.txt
 	
 Exceptional cases:
-	When ship tries to pass boundry lines of plateau, current single move instruction will be
+	When ship tries to pass boundry lines of zone, current single move instruction will be
 	ignored and next instructions will be performed respectively.
 	
 Running application:
