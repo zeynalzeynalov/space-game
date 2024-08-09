@@ -19,7 +19,7 @@ Sample inputs when ship trying to pass border lines:
 When ship tries to pass boundary lines of zone, current single move instruction will be ignored and next instructions will be performed respectively.
 
 #### Running application:
-Input file name should be supplied as argument (args[0]) to the application. When filename is missing, then default input file "sampleInputDefault" will be used.
+Input file name should be supplied as argument (args[0]) to the application. When filename is missing, then default input file `sampleInputDefault` will be used.
 
 Java:
 	`JavaSE-1.8`
