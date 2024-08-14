@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.spaceship.app.SpaceShipInstructionsManagerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.spaceship.app.SpaceShipInstructionsManagerTest
+testPerformInstructionListToSpaceShipShortInput  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <com.spaceship.app.SpaceCoordinate@441> but was: <com.spaceship.app.SpaceCoordinate@3e2>
+	at com.spaceship.app.SpaceShipInstructionsManagerTest.testPerformInstructionListToSpaceShipShortInput(SpaceShipInstructionsManagerTest.java:25)
+
+testPerformInstructionListToSpaceShipLongInput  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <N> but was: <c>
+	at com.spaceship.app.SpaceShipInstructionsManagerTest.testPerformInstructionListToSpaceShipLongInput(SpaceShipInstructionsManagerTest.java:55)
+
