@@ -21,5 +21,5 @@ When ship tries to pass boundary lines of zone, current single move instruction 
 #### Running application:
 Input file name should be supplied as argument (args[0]) to the application. When filename is missing, then default input file `sampleInputDefault` will be used.
 
-Java:
-	`JavaSE-1.8`
+Tech stack:
+- Java:
